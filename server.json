@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-11-13T12:54:56Z"
+    },
+    {
+      "description": "Coca-Cola",
+      "price": 8,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-15T00:34:00.550Z",
+      "id": 4
+    },
+    {
+      "description": "Camisa",
+      "price": 120,
+      "category": "vendas",
+      "type": "outcome",
+      "createdAt": "2023-11-15T00:34:53.028Z",
+      "id": 5
+    },
+    {
+      "description": "Monitor",
+      "price": 1200,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-15T01:35:20.114Z",
+      "id": 6
     }
   ]
 }
